@@ -5,6 +5,12 @@
   box-sizing: border-box;
 }
 
+#root {
+  background-color: #eceae7;
+  max-width: 100vw;
+  min-height: 100vh;
+}
+
 .hero {
   display: flex;
   padding: 5rem;

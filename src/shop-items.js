@@ -1,5 +1,5 @@
 import boxInk from './images/gateronboxinkpinklinear.png';
-import ttc from './images/ttcupgradedgoldpinklinearswitches.png';
+import ttc from './images/ttcupgradedgoldpinklineaerswitches.png';
 import pandas from './images/tecseepurplepandastactileswitches.png';
 import coral from './images/tecseecoraltactileswitches.png';
 import carrot from './images/TECSEECARROTLINEARSWITCHES.PNG';
@@ -12,62 +12,62 @@ import gold from './images/GATERONCAPSGOLDYELLOWLINEARSWITCHES.PNG';
 const items = [
 	{
 		img: boxInk,
-		name: 'GATERON BOX INK PINK LINEAR SWITCHES',
-		price: '$9.50',
+		name: 'GATERON INK PINK LINEAR SWITCHES',
+		price: '9.50',
 		quantity: '10',
 	},
 	{
 		img: ttc,
-		name: 'TTC UPGRADED GOLD PINK LINEAR SWITCHES',
-		price: '$20.50',
+		name: 'GOLD PINK LINEAR SWITCHES',
+		price: '20.50',
 		quantity: '10',
 	},
 	{
 		img: pandas,
-		name: 'TECSEE PURPLE PANDAS TACTILE SWITCHES',
-		price: '$15.50',
+		name: 'PURPLE PANDAS TACTILE SWITCHES',
+		price: '15.50',
 		quantity: '10',
 	},
 	{
 		img: coral,
 		name: 'TECSEE CORAL TACTILE SWITCHES',
-		price: '$13.50',
+		price: '13.50',
 		quantity: '10',
 	},
 	{
 		img: carrot,
 		name: 'TECSEE CARROT LINEAR SWITCHES',
-		price: '$8.50',
+		price: '8.50',
 		quantity: '10',
 	},
 	{
 		img: kailh,
-		name: 'KAILH BOX RED BEAN PUDDING LINEAR SWITCHES',
-		price: '$13.50',
+		name: 'RED BEAN PUDDING LINEAR SWITCHES',
+		price: '13.50',
 		quantity: '10',
 	},
 	{
 		img: cjLinear,
 		name: 'GATERON BOX CJ LINEAR SWITCHES',
-		price: '$28.50',
+		price: '28.50',
 		quantity: '10',
 	},
 	{
 		img: inkV2,
 		name: 'GATERON INK V2 RED LINEAR SWITCHES',
-		price: '$5.50',
+		price: '5.50',
 		quantity: '10',
 	},
 	{
 		img: tealios,
 		name: 'TEALIOS V2 67G LINEAR SWITCHES',
-		price: '$9.50',
+		price: '9.50',
 		quantity: '10',
 	},
 	{
 		img: gold,
 		name: 'GATERON CAPS GOLD YELLOW LINER SWITCHES',
-		price: '$25.50',
+		price: '25.50',
 		quantity: '10',
 	},
 ];

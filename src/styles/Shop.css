@@ -1,0 +1,43 @@
+.shop ul {
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+    justify-content: space-between;
+    padding: 3rem;
+    gap: 2rem;
+}
+
+.shop ul li {
+    color: black;
+    width: 300px;
+    height: 350px;
+    flex-grow: 1;
+}
+
+.item-name {
+    padding: .5rem;
+    font-weight: 700;
+}
+
+.shop ul li p {
+    padding: .2rem;
+}
+
+li img {
+    width: 150px;
+}
+
+input[type=number] {
+    width: 35px;
+    height: 25px;
+}
+
+.addToCart {
+    width: 100px;
+    height: 25px;
+}
+
+.addToCartWrapper {
+    display: flex;
+    justify-content: center;
+}

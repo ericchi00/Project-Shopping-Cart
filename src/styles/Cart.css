@@ -1,0 +1,38 @@
+.cart-item-name,
+.cart-item-quantity,
+.cart-item-price {
+    color: black;
+    font-size: larger;
+}
+
+.cart ul {
+    padding: 5rem;
+}
+
+.cart ul li {
+    display: flex;
+    flex-direction: row;
+    border-bottom: 1px black solid;
+    padding: 1rem;
+}
+
+.cart-empty {
+    display: flex;
+    padding: 5rem;
+}
+
+.cart-rightside {
+    display: flex;
+    flex-direction: row;
+    margin-left: auto;
+    color: black;
+    gap: 1rem;
+}
+
+.cart-total {
+    color: black;
+    font-size: larger;
+    font-weight: 700;
+    float: right;
+    margin-right: 5rem;
+}
