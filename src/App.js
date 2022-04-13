@@ -13,7 +13,7 @@ const App = () => {
 		<BrowserRouter>
 			<Nav cart={cart} />
 			<Routes>
-				<Route path="/" element={<Home />} />
+				<Route path="/project-shopping-cart/" element={<Home />} />
 				<Route path="/shop" element={<Shop setCart={setCart} cart={cart} />} />
 				<Route path="/cart" element={<Cart cart={cart} />} />
 			</Routes>
