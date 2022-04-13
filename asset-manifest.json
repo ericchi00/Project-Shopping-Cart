@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Project-Shopping-Cart/static/css/main.a643356b.css",
-    "main.js": "/Project-Shopping-Cart/static/js/main.5e44a46e.js",
+    "main.js": "/Project-Shopping-Cart/static/js/main.a59b2e3c.js",
     "static/media/GATERONCAPSGOLDYELLOWLINEARSWITCHES.PNG": "/Project-Shopping-Cart/static/media/GATERONCAPSGOLDYELLOWLINEARSWITCHES.62005735170235332472.PNG",
     "static/media/keyboardswitches.jpeg": "/Project-Shopping-Cart/static/media/keyboardswitches.cd910644873f201e4234.jpeg",
     "static/media/tealiousv2linearswitch.png": "/Project-Shopping-Cart/static/media/tealiousv2linearswitch.0f054cfe531d1bc9f8f0.png",
@@ -15,10 +15,10 @@
     "static/media/kailhboxredbeanpuddinglinearswitches.png": "/Project-Shopping-Cart/static/media/kailhboxredbeanpuddinglinearswitches.1a285b34108324c061dc.png",
     "index.html": "/Project-Shopping-Cart/index.html",
     "main.a643356b.css.map": "/Project-Shopping-Cart/static/css/main.a643356b.css.map",
-    "main.5e44a46e.js.map": "/Project-Shopping-Cart/static/js/main.5e44a46e.js.map"
+    "main.a59b2e3c.js.map": "/Project-Shopping-Cart/static/js/main.a59b2e3c.js.map"
   },
   "entrypoints": [
     "static/css/main.a643356b.css",
-    "static/js/main.5e44a46e.js"
+    "static/js/main.a59b2e3c.js"
   ]
 }
