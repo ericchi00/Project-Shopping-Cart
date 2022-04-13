@@ -4,9 +4,8 @@ Creating a shopping cart application to continue practicing react based on this 
 
 ## Technologies
 
-HTML, CSS, Javascript, React, Jest
+HTML, CSS, Javascript, React
 
-
-not done yet 
+Skipped testing since this project was pretty simple. Spent more time syling since browserroute/routes were pretty straight forward.
 
 [Live Demo](https://ericchi00.github.io/Project-Shopping-Cart/)
