@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Project-Shopping-Cart/static/css/main.a643356b.css",
+    "main.js": "/Project-Shopping-Cart/static/js/main.5e44a46e.js",
+    "static/media/GATERONCAPSGOLDYELLOWLINEARSWITCHES.PNG": "/Project-Shopping-Cart/static/media/GATERONCAPSGOLDYELLOWLINEARSWITCHES.62005735170235332472.PNG",
+    "static/media/keyboardswitches.jpeg": "/Project-Shopping-Cart/static/media/keyboardswitches.cd910644873f201e4234.jpeg",
+    "static/media/tealiousv2linearswitch.png": "/Project-Shopping-Cart/static/media/tealiousv2linearswitch.0f054cfe531d1bc9f8f0.png",
+    "static/media/gateronboxcjlinearswitches.png": "/Project-Shopping-Cart/static/media/gateronboxcjlinearswitches.43c7469766abfb95630a.png",
+    "static/media/GATERONINKV2REDLINEARSWITCHES.PNG": "/Project-Shopping-Cart/static/media/GATERONINKV2REDLINEARSWITCHES.16c361d0dacc4ae13b51.PNG",
+    "static/media/gateronboxinkpinklinear.png": "/Project-Shopping-Cart/static/media/gateronboxinkpinklinear.42faab80ab8f4ac7cd0b.png",
+    "static/media/tecseepurplepandastactileswitches.png": "/Project-Shopping-Cart/static/media/tecseepurplepandastactileswitches.fb390f31cb90173fdac9.png",
+    "static/media/tecseecoraltactileswitches.png": "/Project-Shopping-Cart/static/media/tecseecoraltactileswitches.d69db4c2ad908e7771eb.png",
+    "static/media/TECSEECARROTLINEARSWITCHES.PNG": "/Project-Shopping-Cart/static/media/TECSEECARROTLINEARSWITCHES.093db61b37271bc9dead.PNG",
+    "static/media/ttcupgradedgoldpinklineaerswitches.png": "/Project-Shopping-Cart/static/media/ttcupgradedgoldpinklineaerswitches.4631be4af400ee859e71.png",
+    "static/media/kailhboxredbeanpuddinglinearswitches.png": "/Project-Shopping-Cart/static/media/kailhboxredbeanpuddinglinearswitches.1a285b34108324c061dc.png",
+    "index.html": "/Project-Shopping-Cart/index.html",
+    "main.a643356b.css.map": "/Project-Shopping-Cart/static/css/main.a643356b.css.map",
+    "main.5e44a46e.js.map": "/Project-Shopping-Cart/static/js/main.5e44a46e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a643356b.css",
+    "static/js/main.5e44a46e.js"
+  ]
+}
