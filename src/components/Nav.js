@@ -6,7 +6,7 @@ const Nav = ({ cart }) => {
 	return (
 		<header>
 			<nav>
-				<Link to="/">
+				<Link to="/project-shopping-cart/">
 					<h1>Keyboard Switches</h1>
 				</Link>
 				<ul>
